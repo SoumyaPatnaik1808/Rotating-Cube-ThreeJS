@@ -32,4 +32,4 @@ function animate() {
 
 }
 
-renderer.setAnimationLoop(animate); //
+renderer.setAnimationLoop(animate); 
